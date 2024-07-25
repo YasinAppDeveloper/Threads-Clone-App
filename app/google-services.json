@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376971267368",
+    "project_id": "threads-clone-app-2578b",
+    "storage_bucket": "threads-clone-app-2578b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376971267368:android:454cc8afb0bd504a08d41d",
+        "android_client_info": {
+          "package_name": "com.dreamcoder.threadscloneapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiVYnT-vW9Q2QA8TtN8-OltU6YDMqhBqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
